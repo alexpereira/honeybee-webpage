@@ -6,12 +6,12 @@ Invite your friends to use the Honeybee app! The more people using the app, the 
 
 View nearby restaurants | Search grocery stores
 ------------ | -------------
-<kbd><img src="https://raw.githubusercontent.com/alexpereira/the-honeybee-app/master/assets/img/screenshot_one.png" width="375"></kbd>  | <kbd><img src="https://raw.githubusercontent.com/alexpereira/the-honeybee-app/master/assets/img/screenshot_two.png" width="375"></kbd>
+<img src="https://raw.githubusercontent.com/alexpereira/the-honeybee-app/master/assets/img/screenshot_one.png" width="375" style="border: 1px solid #cccccc; border-radius: 5px"> | <img src="https://raw.githubusercontent.com/alexpereira/the-honeybee-app/master/assets/img/screenshot_two.png" width="375" style="border: 1px solid #cccccc; border-radius: 5px">
 
 
 Submit a report | View updated reports
 ------------ | -------------
-<kbd><img src="https://raw.githubusercontent.com/alexpereira/the-honeybee-app/master/assets/img/screenshot_three.png" width="375"></kbd>  | <kbd><img src="https://raw.githubusercontent.com/alexpereira/the-honeybee-app/master/assets/img/screenshot_four.png" width="375"></kbd>
+<img src="https://raw.githubusercontent.com/alexpereira/the-honeybee-app/master/assets/img/screenshot_three.png" width="375" style="border: 1px solid #cccccc; border-radius: 5px"> | <img src="https://raw.githubusercontent.com/alexpereira/the-honeybee-app/master/assets/img/screenshot_four.png" width="375" style="border: 1px solid #cccccc; border-radius: 5px">
 
 
 
