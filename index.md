@@ -4,9 +4,8 @@ The Honeybee app lets users report how busy nearby places are. By doing so, we c
 
 Invite your friends to use the Honeybee app! The more people using the app, the more accurate the results will be.
 
-![Places List - Restaurants View](/assets/img/screenshot_one.png)
-![Places List - Searching Grocery Stores View](/assets/img/screenshot_two.png)
-![Places List - Submitting Report View](/assets/img/screenshot_three.png)
-![Places List - Report Submitted View](/assets/img/screenshot_four.png)
+<kbd><img src="/assets/img/screenshot_one.png" width="375"></kbd> <kbd><img src="/assets/img/screenshot_two.png" width="375"></kbd>
+
+<kbd><img src="/assets/img/screenshot_three.png" width="375"></kbd> <kbd><img src="/assets/img/screenshot_four.png" width="375"></kbd>
 
 [Privacy Policy](./privacy-policy.html)
